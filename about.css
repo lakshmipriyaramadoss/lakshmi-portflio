@@ -92,7 +92,7 @@ h2.l2{
     font-weight: 800; 
     font-weight: bolder;               
 }
-@media screen and (min-width:400px) and (max-width:550px) {
+@media screen and (min-width:400px) and (max-width:768px) {
   header {
     background-color: rgb(57, 52, 52);
     padding: 20px;
@@ -138,4 +138,5 @@ h2.l2{
     display: flex;
     filter: drop-shadow(1px 1px 20px rgb(84, 241, 249));
 }
+
 }
