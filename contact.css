@@ -130,7 +130,7 @@ body{
   transform: scale(1.1);
   cursor: pointer;
 }
-@media screen and (min-width:400px) and (max-width:550px) {
+@media screen and (min-width:400px) and (max-width:768px) {
   header {
     background-color: rgb(57, 52, 52);
     padding: 20px;
@@ -176,4 +176,5 @@ body{
     display: flex;
     filter: drop-shadow(1px 1px 20px rgb(84, 241, 249));
 }
+
 }
