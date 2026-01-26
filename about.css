@@ -92,7 +92,7 @@ h2.l2{
     font-weight: 800; 
     font-weight: bolder;               
 }
-@media screen (max-width:480px) {
+@media screen and (min-width:320px) and (max-width:600px) {
   header {
     background-color: rgb(57, 52, 52);
     padding: 20px;
@@ -140,4 +140,5 @@ h2.l2{
 }
 
 }
+
 
