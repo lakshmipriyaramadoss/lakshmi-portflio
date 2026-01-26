@@ -82,7 +82,7 @@ body{
 #skills li span {
   color: rgb(84, 241, 249);
 }
-@media screen and(min-width:400px) and(max-width:550px) {
+@media screen and(min-width:400px) and(max-width:768px) {
      header{
         background: #7da8b0;
         background: linear-gradient(90deg, rgba(125, 168, 176, 1) 0%, rgba(138, 181, 186, 1) 12%, rgba(39, 183, 194, 1) 31%, rgba(47, 208, 204, 1) 67%, rgba(50, 217, 208, 1) 80%, rgba(43, 204, 191, 1) 88%, rgba(28, 202, 237, 1) 100%);
@@ -165,4 +165,5 @@ body{
     display: flex;
     filter: drop-shadow(1px 1px 20px rgb(84, 241, 249));
 }
+
 }
