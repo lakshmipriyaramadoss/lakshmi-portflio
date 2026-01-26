@@ -181,7 +181,7 @@ body{
     transform: scale(1.1);
     cursor: pointer;
 }
-@media screen (max-width:480px) {
+@media screen and (min-width:320px) and (max-width:600px){
   header {
     background-color: rgb(57, 52, 52);
     padding: 20px;
@@ -359,5 +359,6 @@ body{
     cursor: pointer;
 }
 }
+
 
 
