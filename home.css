@@ -185,7 +185,7 @@ body{
   header {
     background-color: rgb(57, 52, 52);
     padding: 10px;
-    width: 127%;
+    width: 140%;
   }
 
   nav {
@@ -208,7 +208,7 @@ body{
   nav ul li a {
     color:black;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 23px;
     display: inline-block;
   }
 
@@ -218,11 +218,11 @@ body{
     cursor: pointer;
   }
   .main img{
-    width: 210px;
-    height: 220px;
+    width: 230px;
+    height: 250px;
     border-radius: 30%;
     margin-left: 37%;
-    margin-top: -470px;
+    margin-top: -550px;
     position: absolute;
     z-index: 2;
     display: flex;
@@ -239,8 +239,8 @@ body{
 }
 .main .one{
     color: white;
-    font-weight: 900;
-    margin-top:300px ;
+    font-size: 30px;
+    margin-top:340px ;
     margin-left: 50%;
     display: flex;
     width: 300px;
@@ -248,16 +248,17 @@ body{
 .main .second{
     color: white;
     font-weight: 500;
-    margin-left: 30%;
+    font-size: 30px;
+    margin-left: 50%;
 }
 .main .detail .homepage{
     display: flex;
-    margin-left: 10%;
+    margin-left: 20%;
     color: white;
-    font-weight: 900;
+    font-size: 20px;
     flex-wrap: wrap;
     font-size: large;
-    width: 400px;
+    width: 350px;
     object-fit: cover;
 }
 .main .color{
@@ -360,6 +361,9 @@ body{
     cursor: pointer;
 }
 }
+
+
+
 
 
 
