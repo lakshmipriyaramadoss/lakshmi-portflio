@@ -249,7 +249,7 @@ body{
     color: white;
     font-weight: 500;
     font-size: 30px;
-    margin-left: 50%;
+    margin-left: 60%;
 }
 .main .detail .homepage{
     display: flex;
@@ -258,7 +258,7 @@ body{
     font-size: 20px;
     flex-wrap: wrap;
     font-size: large;
-    width: 350px;
+    width: 340px;
     object-fit: cover;
 }
 .main .color{
@@ -353,7 +353,7 @@ body{
       letter-spacing: 1px;
       font-weight: 600;
       text-decoration: none;
-      margin-left: 27%;
+      margin-left: 37%;
       margin-top: 20px;
 }
 .btn-box:hover{
@@ -361,6 +361,7 @@ body{
     cursor: pointer;
 }
 }
+
 
 
 
