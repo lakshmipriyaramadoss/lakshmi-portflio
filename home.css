@@ -258,7 +258,7 @@ body{
     font-size: 20px;
     flex-wrap: wrap;
     font-size: large;
-    width: 350px;
+    width: 400px;
     object-fit: cover;
 }
 .main .color{
@@ -361,6 +361,7 @@ body{
     cursor: pointer;
 }
 }
+
 
 
 
