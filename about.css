@@ -92,10 +92,11 @@ h2.l2{
     font-weight: 800; 
     font-weight: bolder;               
 }
-@media screen and (min-width:320px) and (max-width:600px) {
+@media screen and (min-width:320px) and (max-width:768px) {
   header {
     background-color: rgb(57, 52, 52);
-    padding: 20px;
+    padding: 3px;
+    width: 100%;
   }
 
   nav {
@@ -107,18 +108,18 @@ h2.l2{
     display: flex;   
     justify-content: center;      
     align-items: center;
-    margin-left: -5%;          
-    padding: 0;
+    margin-left: -25%;          
+    padding: 5px;
   }
 
   nav ul li {
-    margin: 10px 0;
+    margin: 1px;
   }
 
   nav ul li a {
     color:black;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 15px;
     display: inline-block;
   }
 
@@ -127,18 +128,61 @@ h2.l2{
     color: black;
     cursor: pointer;
   }
-  .main img{
-    width: 300px;
-    height: 300px;
-    border-radius: 30%;
-    margin-left: 20%;
-    margin-top: -540px;
-    position: absolute;
-    z-index: 2;
-    display: flex;
-    filter: drop-shadow(1px 1px 20px rgb(84, 241, 249));
+  .about {
+  background-color: rgb(46, 40, 40);          
+  color:white;                    
+  padding: 80px 10%;
+  text-align: left;
+  margin-top:-50px ;
+
+}
+h2.l3{
+  text-align: center;
+}
+h2.l4{
+  text-align: center;
+}
+h2.l5{
+  text-align: center;
+}
+h2.l6{
+  text-align: center;
+}
+h2.l7{
+  text-align: center;
+}
+h2.l8{
+  text-align: center;
+}
+h2.l9{
+  text-align: center;
+}
+.about .title{
+  color: white;   
+  font-size: larger;  
+  font-weight: 600;                
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  border-bottom: 3px solid rgb(84, 241, 249);
+  padding-bottom: 5px;
+}
+h2.l2{
+  text-align: center;
+}
+.about h2 {
+  color: white;
+  font-size: larger;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.about span {
+    color: rgb(84, 241, 249);
+    font-size: large;  
+    font-weight: 600; 
+    font-weight: bolder;               
 }
 
 }
+
 
 
