@@ -231,6 +231,7 @@ body{
 #contact input{
   width: 150px;
   padding: 5px;
+  margin-left: -30%;
   border: 1px solid white;
   border-radius: 6px;
 }
@@ -257,3 +258,4 @@ body{
 }
  
 }
+
